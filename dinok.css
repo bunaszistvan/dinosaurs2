@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    font-size: 250%;
+    
+
+    
+}
+body{
+    text-align: center;
+    background-image: url("2460992.jpg") ;
+    image-resolution: auto;
+    border-image-width: auto;
+    font-size: 150%;
+    color: whitesmoke;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.white{
+    color:rgb(250, 212, 0);
+    
+}
